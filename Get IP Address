@@ -1,3 +1,7 @@
+{
+	"writeapper_user": "Emalk",
+	"writeapp_pass": "Eh19ud89"
+}
 import socket
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 s.connect(("8.8.8.8", 80))
